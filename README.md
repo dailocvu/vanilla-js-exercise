@@ -1,2 +1,2 @@
 # Vanilla-JS-Exercise
- My JavaScript exercise and mini projects
+ My JavaScript exercises and mini projects
