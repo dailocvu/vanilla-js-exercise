@@ -1,7 +1,7 @@
 # Task List
 
 - Exercise for learning DOM
-- Add and delelte task lists
+- Add, filter and delelte task lists
 
 # Screenshot
 
